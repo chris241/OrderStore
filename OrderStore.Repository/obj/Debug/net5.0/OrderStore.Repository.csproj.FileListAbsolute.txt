@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\bin\Debug\net5.0\OrderStore.Repository.deps.json
+C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\bin\Debug\net5.0\OrderStore.Repository.dll
+C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\bin\Debug\net5.0\ref\OrderStore.Repository.dll
+C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\bin\Debug\net5.0\OrderStore.Repository.pdb
+C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\obj\Debug\net5.0\OrderStore.Repository.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\obj\Debug\net5.0\OrderStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\obj\Debug\net5.0\OrderStore.Repository.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\obj\Debug\net5.0\OrderStore.Repository.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\obj\Debug\net5.0\OrderStore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\obj\Debug\net5.0\OrderStore.Repository.dll
+C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\obj\Debug\net5.0\ref\OrderStore.Repository.dll
+C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\obj\Debug\net5.0\OrderStore.Repository.pdb
