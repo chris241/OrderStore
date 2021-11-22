@@ -1,11 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using OrderStore.Domain.Intefaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OrderStore.Repository
 {
@@ -18,7 +13,7 @@ namespace OrderStore.Repository
             services.AddTransient<IUnitOfWork, UnitOfWork>();
 
             services.AddDbContext<ApplicationDbContext>(opt => opt
-                .UseMySql("server = localhost; port = 3306; database = schoolApi; user = root; password =", ServerVersion.AutoDetect("server = localhost; port = 3306; database = schoolApi; user = root; password =")));
+                  .UseMySql("server=localhost; port=3306; database=OrderStore; user=root; password=", ServerVersion.AutoDetect("server=localhost; port=3306; database=OrderStore; user=root; password=")));
             return services;
         }
     }

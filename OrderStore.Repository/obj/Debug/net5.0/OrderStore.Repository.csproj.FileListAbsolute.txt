@@ -10,3 +10,9 @@ C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\obj\Debug\net5.0\Ord
 C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\obj\Debug\net5.0\OrderStore.Repository.dll
 C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\obj\Debug\net5.0\ref\OrderStore.Repository.dll
 C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\obj\Debug\net5.0\OrderStore.Repository.pdb
+C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\bin\Debug\net5.0\OrderStore.Domain.dll
+C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\bin\Debug\net5.0\OrderStore.Domain.pdb
+C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\obj\Debug\net5.0\OrderStore.Repository.csproj.CopyComplete
+C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\bin\Debug\net5.0\OrderStore.Repository.runtimeconfig.json
+C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\bin\Debug\net5.0\OrderStore.Repository.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\OrderStore\OrderStore.Repository\obj\Debug\net5.0\OrderStore.Repository.genruntimeconfig.cache

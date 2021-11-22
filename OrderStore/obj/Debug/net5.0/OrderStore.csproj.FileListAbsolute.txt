@@ -27,3 +27,16 @@ C:\Users\ASUS\source\repos\OrderStore\OrderStore\obj\Debug\net5.0\OrderStore.dll
 C:\Users\ASUS\source\repos\OrderStore\OrderStore\obj\Debug\net5.0\ref\OrderStore.dll
 C:\Users\ASUS\source\repos\OrderStore\OrderStore\obj\Debug\net5.0\OrderStore.pdb
 C:\Users\ASUS\source\repos\OrderStore\OrderStore\obj\Debug\net5.0\OrderStore.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\OrderStore\OrderStore\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ASUS\source\repos\OrderStore\OrderStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\source\repos\OrderStore\OrderStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\source\repos\OrderStore\OrderStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\source\repos\OrderStore\OrderStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\source\repos\OrderStore\OrderStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\source\repos\OrderStore\OrderStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\source\repos\OrderStore\OrderStore\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\ASUS\source\repos\OrderStore\OrderStore\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ASUS\source\repos\OrderStore\OrderStore\bin\Debug\net5.0\OrderStore.Domain.dll
+C:\Users\ASUS\source\repos\OrderStore\OrderStore\bin\Debug\net5.0\OrderStore.Repository.dll
+C:\Users\ASUS\source\repos\OrderStore\OrderStore\bin\Debug\net5.0\OrderStore.Domain.pdb
+C:\Users\ASUS\source\repos\OrderStore\OrderStore\bin\Debug\net5.0\OrderStore.Repository.pdb
